@@ -1,0 +1,29 @@
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\obj\Debug\net8.0\2 Лаба.fsproj.AssemblyReference.cache
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\obj\Debug\net8.0\2 Лаба.AssemblyInfoInputs.cache
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\obj\Debug\net8.0\2 Лаба.AssemblyInfo.fs
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\obj\Debug\net8.0\2 Лаба.fsproj.CoreCompileInputs.cache
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\2 Лаба.exe
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\2 Лаба.deps.json
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\2 Лаба.runtimeconfig.json
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\2 Лаба.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\2 Лаба.pdb
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\FSharp.Core.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\obj\Debug\net8.0\2 Лаба.fsproj.Up2Date
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\obj\Debug\net8.0\2 Лаба.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\obj\Debug\net8.0\refint\2 Лаба.dll
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\obj\Debug\net8.0\2 Лаба.pdb
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\obj\Debug\net8.0\2 Лаба.genruntimeconfig.cache
+C:\Users\apale\source\repos\C#\2 Лаба\2 Лаба\obj\Debug\net8.0\ref\2 Лаба.dll
