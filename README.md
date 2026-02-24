@@ -20,8 +20,7 @@
 и выводится содержимое списка listZ.
 
 ### Тестирование
-
- 
+![1 задание тесты](https://github.com/user-attachments/assets/0eec8c6a-fd49-4a98-abf3-80470709b55b)
 
 ## Задача 2
 
@@ -36,6 +35,7 @@
 ### Тестирование
 
  
+![2 задание тесты](https://github.com/user-attachments/assets/baad563c-0010-47d4-b721-0e2ef53e2ab9)
 
 
 ## Задача 3
@@ -56,7 +56,9 @@
 Программа завершается возвратом 0
 
 ### Тестирование
- 
+ ![3 задание тесты](https://github.com/user-attachments/assets/3fbf991c-45ab-4227-8634-8291c75f2b87)
+
+
 
 
 
